@@ -23,5 +23,5 @@ O nosso trabalho e fazer uma Rest API com containers e imagens e volume no Docke
 ### Project presentation
 
 ## Team
-* Bruno Costa [@Bruno Costa](https://github.com/Brunobk2c)
+* Bruno Costa [@Bruno Costa](https://github.com/Brunobk2c), Zidane Furtado [@Zidane Furtado](https://github.com/zidanefurtado1)
 

@@ -16,6 +16,7 @@ O nosso trabalho e fazer uma Rest API com containers e imagens e volume no Docke
 * [Swagger](https://swagger.io/) 
 * [Docker](https://www.docker.com/)
 * [Json](https://www.json.org/json-en.html)
+* [React Admin](https://marmelab.com/react-admin/)
 
 ## Report
 
@@ -23,5 +24,5 @@ O nosso trabalho e fazer uma Rest API com containers e imagens e volume no Docke
 ### Project presentation
 
 ## Team
-* Bruno Costa [@Bruno Costa](https://github.com/Brunobk2c), Zidane Furtado [@Zidane Furtado](https://github.com/zidanefurtado1)
+* Bruno Costa [@Bruno Costa](https://github.com/Brunobk2c), Zidane Furtado [@Zidane Furtado](https://github.com/zidanefurtado1), Etson Silva [@Etson Silva](https://github.com/)
 
